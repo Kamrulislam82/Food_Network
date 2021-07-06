@@ -1,0 +1,86 @@
+body{
+    font-family: 'Merriweather', serif;
+    margin:0 auto:
+}
+.manu_bar{
+    background-color:green;
+    text-align: center;
+}
+.manu_bar ul{
+    display: inline-flex;
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+.manu_bar ul li{
+    width: 80px;
+    margin: 10px;
+    padding: 8px;
+}
+h1{
+    font-size: 40px;
+    color: #707070;
+}
+.color_red{
+    color: red;
+}
+.falaxeble_contine{
+    display: flex;
+    margin-bottom: 50px;
+}
+.half_with{
+    width: 50%;
+    padding: 2%;
+}
+.half_with img{
+    width: 80%;
+}
+.link_button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 15px 15px;
+    border-radius: 15px;
+}
+.About_aria{
+    background-image: url(image/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.center{
+    text-align:center;
+    padding: 100px 100px;
+}
+.center h2{
+    font-size: 70px;
+    color:#707070;
+}
+.image_areia{
+    box-shadow: 5px 5px 20px gray;
+    width: 25%;
+    margin-left: 5%;
+    border-radius: 20px;
+}
+.image_areia img{
+    width: 80%;
+    height: 60%;
+    padding-left:27px ;
+    border-radius: 20px;
+    padding-top: 15px;
+}
+.image_areia h3{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.image_areia p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+footer{
+    text-align: center;
+    background-color:#0B0D17;
+    color: white;
+    margin: 5px;
+    padding: 20px;
+}
